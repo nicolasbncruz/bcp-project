@@ -1,0 +1,8 @@
+com\bcp\project\service\ItemServiceImpl.class
+com\bcp\project\controller\ItemController.class
+com\bcp\project\repository\ItemRepository.class
+com\bcp\project\repository\ReviewRepository.class
+com\bcp\project\service\ItemRequest.class
+com\bcp\project\entity\Item.class
+com\bcp\project\SpringBcpProjectApplication.class
+com\bcp\project\entity\Review.class
