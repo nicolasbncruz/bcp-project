@@ -27,8 +27,4 @@ public class ItemServiceImpl {
     private Double rating;
 
 
-
-
-
-
 }
