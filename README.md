@@ -18,4 +18,5 @@ spring.datasource.username = root
 spring.datasource.password = mysql
 ```
 6. Ejecutar la aplicación
+
 7. Consumir los servicios rest expuestos en postman adjunto
